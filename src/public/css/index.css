@@ -1,0 +1,12 @@
+.outer-container {
+  background: #0066cc;
+  height: 300px;
+
+  border-radius: 0px 0px 50px 50px;
+}
+.outerr-container {
+  background: #0066cc;
+  height: 600px;
+
+  border-radius: 50px 50px 50px 50px;
+}
